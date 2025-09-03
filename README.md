@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fullstack Web Development of Blockchain Projects<br><br>👯 I’m looking to collaborate on projects in the Blockchain Domain<br><br>⚡ Check out some of my projects :<br>Mettalex (https://dex.mettalex.com/)<br>Sentiment (https://arbitrum.sentiment.xyz/)<br>BotSwap (https://botswap.fi/)<br>Fetch Wallet (https://tinyurl.com/mtakcwya)
-
+🔭 I’m currently working on Development of Blockchain Applications @Range<br><br>👯 I’m love to collaborate on projects in the Blockchain Domain<br><br>⚡ 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lucifer2212#9153) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abbasali94) 
